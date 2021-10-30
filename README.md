@@ -12,8 +12,8 @@
     <img align="center" alt="Gilmar-Azure" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
     <img align="center" alt="Gilmar-TypeScript" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Gilmar-Git" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-    <img align="center" alt="Gilmar-Git" height="30" width="50" color="white" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">  
-    <img align="center" alt="Gilmar-Git" height="30" width="50" color="white" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg">
+    <img align="center" alt="Gilmar-Unity" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">  
+    <img align="center" alt="Gilmar-Android" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg">
     <img align="center" alt="Gilmar-Java" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 </div>
 
