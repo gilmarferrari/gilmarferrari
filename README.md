@@ -15,12 +15,11 @@
     <img align="center" alt="Gilmar-Unity" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">  
     <img align="center" alt="Gilmar-Android" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg">
     <img align="center" alt="Gilmar-Java" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-</div>
+</div> <br>
 
-##
+## Artes do Portfólio 
 
 <div>
-    Artes do Portfólio <br><br>
     <img align="center" alt="Gilmar-Alien" height="25" width="25" src="https://github.com/gilmarferrari/Costal-Collapse/blob/master/Assets/Sprites/Alien.png">
 </div>
 
