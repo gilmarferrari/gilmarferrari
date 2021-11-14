@@ -20,7 +20,23 @@
 ## Artes do Portfólio 
 
 <div>
-    <img align="center" alt="Gilmar-Alien" height="25" width="25" src="https://github.com/gilmarferrari/Costal-Collapse/blob/master/Assets/Sprites/Alien.png">
+  <img align="center" alt="Gilmar-Alien" height="25" width="25" src="https://github.com/gilmarferrari/assets/blob/main/Thermal_Vision.png">
+  <img align="center" alt="Gilmar-Alien" height="25" width="25" src="https://github.com/gilmarferrari/assets/blob/main/Healer.png">
+  <img align="center" alt="Gilmar-Alien" height="25" width="25" src="https://github.com/gilmarferrari/assets/blob/main/Telepathy.png">
+  <img align="center" alt="Gilmar-Alien" height="25" width="25" src="https://github.com/gilmarferrari/assets/blob/main/Veteran.png">  
+  <img align="center" alt="Gilmar-Alien" height="25" width="25" src="https://github.com/gilmarferrari/assets/blob/main/Alchemist.png">
+  <img align="center" alt="Gilmar-Alien" height="25" width="25" src="https://github.com/gilmarferrari/assets/blob/main/Voyager.png">
+  <img align="center" alt="Gilmar-Alien" height="20" width="25" src="https://github.com/gilmarferrari/assets/blob/main/Hacker.png">
+  <img align="center" alt="Gilmar-Alien" height="25" width="25" src="https://github.com/gilmarferrari/assets/blob/main/Green_Leaf_Trunk.png">
+  <img align="center" alt="Gilmar-Alien" height="25" width="25" src="https://github.com/gilmarferrari/assets/blob/main/Blue_Leaf_Trunk.png">
+  <img align="center" alt="Gilmar-Alien" height="25" width="25" src="https://github.com/gilmarferrari/assets/blob/main/Orange_Leaf_Trunk.png">
+  <img align="center" alt="Gilmar-Alien" height="23" width="25" src="https://github.com/gilmarferrari/assets/blob/main/Code%20Machine.png">
+  <img align="center" alt="Gilmar-Alien" height="23" width="25" src="https://github.com/gilmarferrari/assets/blob/main/Code%20Machine%20Wild.png">
+  <img align="center" alt="Gilmar-Alien" height="23" width="25" src="https://github.com/gilmarferrari/assets/blob/main/Code%20Machine%20Frozen.png">
+  <img align="center" alt="Gilmar-Alien" height="23" width="25" src="https://github.com/gilmarferrari/assets/blob/main/Code%20Machine%20Destroyed.png">
+  <img align="center" alt="Gilmar-Alien" height="23" width="25" src="https://github.com/gilmarferrari/assets/blob/main/Code%20Machine%20Advanced.png">
+  <img align="center" alt="Gilmar-Alien" height="25" width="18" src="https://github.com/gilmarferrari/assets/blob/main/Oxigen%20Producer%20Off.png">
+  <img align="center" alt="Gilmar-Alien" height="25" width="18" src="https://github.com/gilmarferrari/assets/blob/main/Oxigen%20Producer%20Broken.png">
 </div>
 
 ##
