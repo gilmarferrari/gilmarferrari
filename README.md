@@ -20,7 +20,9 @@
 ## Portfólio 
 
 <div>
-  <a href="https://github.com/gilmarferrari/Assets/blob/main/Coastal%20Collapse%20Android.zip?raw=true">Coastal Collapse</a>
+  <label>Coastal Collapse</label>
+  <a href="https://github.com/gilmarferrari/Assets/blob/main/Coastal%20Collapse%20Android.zip?raw=true">Android</a>
+  <a href="https://github.com/gilmarferrari/Assets/blob/main/Coastal%20Collapse%20Android.zip?raw=true">PC</a>
 </div>
 
 ##
