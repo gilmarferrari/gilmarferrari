@@ -17,10 +17,10 @@
     <img align="center" alt="Gilmar-Java" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 </div> <br>
 
-## Portfólio 
+## Portfólio
 
 <div>
-  <label>Coastal Collapse</label>
+  <label">Coastal Collapse</label>
   <br><br>
   <a href="https://github.com/gilmarferrari/Assets/blob/main/Coastal%20Collapse%20Android.zip?raw=true">Android</a>
   <span> ⇋ </span>
