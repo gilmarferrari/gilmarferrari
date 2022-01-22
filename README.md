@@ -8,12 +8,11 @@
 ##
 
 <div>  
-  <img align="center" alt="Gilmar-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Gilmar-Azure" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
-    <img align="center" alt="Gilmar-TypeScript" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Gilmar-Git" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-    <img align="center" alt="Gilmar-Unity" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">  
+  <img align="center" alt="Gilmar-CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg">
+    <img align="center" alt="Gilmar-Unity" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">  
     <img align="center" alt="Gilmar-Android" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg">
+    <img align="center" alt="Gilmar-Azure" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
+    <img align="center" alt="Gilmar-Git" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
     <img align="center" alt="Gilmar-Java" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 </div> <br>
 
