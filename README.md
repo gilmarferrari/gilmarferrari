@@ -1,4 +1,4 @@
-## Desenvolvedor de Jogos e Softwares
+## Desenvolvedor de Software
 <div>
   <a href="https://github.com/gilmarferrari">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gilmarferrari&show_icons=true&amp;theme=vision-friendly-dark&amp;include_all_commits=true&amp;count_private=false" style="max-width:100%;">
