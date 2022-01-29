@@ -5,6 +5,14 @@
   </a>
 </div>
 
+## Sobre
+
+<div>
+  <label> ⇋ Foco em desenvolvimento Back-end </label>
+  <br>
+  <label> ⇋ Graduado em Jogos Digitais </label>
+</div> <br>
+
 ## Tecnologias
 
 <div>  
