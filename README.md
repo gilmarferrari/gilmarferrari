@@ -30,7 +30,7 @@
 <div>
   <label>Coastal Collapse [ Jogo ]</label>
   <br><br>
-   ⇋ <a href="https://github.com/gilmarferrari/Assets/blob/main/Coastal%20Collapse%20Android.zip?raw=true">Android</a>
+   ⇋ <a href="https://github.com/gilmarferrari/Projects/blob/main/Coastal%20Collapse.apk">Android</a>
   <br>
    ⇋ <a href="https://github.com/gilmarferrari/Assets/blob/main/Coastal%20Collapse.rar?raw=true">Windows</a>
 </div>
