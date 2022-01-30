@@ -8,9 +8,11 @@
 ## Sobre
 
 <div>
-  <label> ⇋ Foco em desenvolvimento Back-end </label>
+  ⇋ Graduado em Jogos Digitais
   <br>
-  <label> ⇋ Graduado em Jogos Digitais </label>
+  ⇋ Pós-Graduando em Big Data, Data Science & Analytics
+  <br>
+  ⇋ Há mais de dois anos, trabalhando com o desenvolvimento de jogos (Autônomos).
 </div> <br>
 
 ## Tecnologias
@@ -20,8 +22,7 @@
     <img align="center" alt="Gilmar-Unity" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">  
     <img align="center" alt="Gilmar-Android" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg">
     <img align="center" alt="Gilmar-Azure" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
-    <img align="center" alt="Gilmar-Git" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-    <img align="center" alt="Gilmar-Java" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+    <img align="center" alt="Gilmar-Java" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">
 </div> <br>
 
 ## Portfólio
