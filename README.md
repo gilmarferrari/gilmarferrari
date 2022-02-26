@@ -8,11 +8,14 @@
 ## Sobre
 
 <div>
-  ⇋ Graduado em Jogos Digitais
+  ⇋ Graduado em Jogos Digitais.
   <br>
-  ⇋ Pós-Graduando em Big Data, Data Science & Analytics
+  ⇋ Pós-Graduando em Big Data, Data Science & Analytics.
   <br>
-  ⇋ Há mais de dois anos, trabalhando com o desenvolvimento de jogos (Autônomos).
+  ⇋ Atuando há mais de dois anos, com o desenvolvimento de jogos (Independentes).
+  <br>
+  ⇋ Atualmente trabalhando em dois grandes projetos: HashV (Software para suprir necessidades pessoais) e 
+  Collapsus: Lost Legacy (Video Game Desktop). Ambos são projetos pessoais.
 </div> <br>
 
 ## Tecnologias
