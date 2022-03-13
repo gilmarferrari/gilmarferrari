@@ -12,10 +12,9 @@
   <br>
   ⇋ Pós-Graduando em Big Data, Data Science & Analytics.
   <br>
-  ⇋ Atuando há mais de dois anos, com o desenvolvimento de jogos (Independentes).
+  ⇋ Atuando desde 2018, com o desenvolvimento de jogos (Independentes).
   <br>
-  ⇋ Atualmente trabalhando em dois grandes projetos: HashV (Software para suprir necessidades pessoais) e 
-  Collapsus: Lost Legacy (Video Game Desktop). Ambos são projetos pessoais.
+  ⇋ Atualmente trabalhando com desenvolvimento de software na Cooperativa Vinícola Garibaldi Ltda.
 </div> <br>
 
 ## Tecnologias
