@@ -12,7 +12,7 @@
   <br>
   ⇋ Pós-Graduando em Big Data, Data Science & Analytics.
   <br>
-  ⇋ Atuando desde 2018, com o desenvolvimento de jogos (Independentes).
+  ⇋ Atuando desde 2019, com o desenvolvimento de jogos (Independentes).
   <br>
   ⇋ Atualmente trabalhando com desenvolvimento de software na Cooperativa Vinícola Garibaldi Ltda.
 </div> <br>
