@@ -30,18 +30,9 @@
 ## Portfólio
 
 <div>
-  <label>Portfólio (Página)</label><br><br>
-  • <a href="https://gilmarferrari.github.io/Portfolio/">Visitar Página</a>
+  <label>Portfólio criado em HTML, CSS e JavaScript, contendo projetos, trajetória e demais informações.</label><br><br>
+  • <a href="https://gilmarferrari.github.io/Portfolio/">Visitar Portfólio</a>
   <br><br>
-  
-  <label>Collapsus: Lost Legacy (Video Game)</label><br><br>
-  • <a href="https://gilmarferrari.github.io/Collapsus-Lost-Legacy/">Visitar Página</a>
-  • <a href="https://github.com/gilmarferrari/Projects/blob/main/Collapsus%20Lost%20Legacy%200.18.2.rar?raw=true">Download</a>
-  <br><br>
-  
-  <label>Coastal Collapse (Video Game)</label><br><br>
-   • <a href="https://github.com/gilmarferrari/Projects/blob/main/Coastal%20Collapse.apk?raw=true">Android</a>
-   • <a href="https://github.com/gilmarferrari/Assets/blob/main/Coastal%20Collapse.rar?raw=true">Windows</a><br>
 </div>
 
 ##
