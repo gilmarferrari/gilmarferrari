@@ -34,8 +34,6 @@
   • <a href="https://gilmarferrari.github.io/Portfolio/">Visitar Portfólio</a>
   <br><br>
 </div>
-
-##
  
 <div>
  
