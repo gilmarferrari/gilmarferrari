@@ -10,7 +10,7 @@
 <div>
   ⇋ Graduado em Jogos Digitais.
   <br>
-  ⇋ Pós-Graduando em Big Data, Data Science & Analytics.
+  ⇋ Pós-Graduando em Big Data, Data Science & Data Analytics.
   <br>
   ⇋ Atuando desde 2019, com o desenvolvimento de jogos (Independentes).
   <br>
