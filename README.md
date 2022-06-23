@@ -31,7 +31,7 @@
 
 <div>
   <label>Portfólio criado em HTML, CSS e JavaScript, contendo projetos, trajetória e demais informações.</label><br><br>
-  • <a href="https://gilmarferrari.github.io/Portfolio/">Visitar Portfólio</a>
+  • <a href="https://gilmarferrari.github.io/portfolio/">Visitar Portfólio</a>
   <br><br>
 </div>
  
