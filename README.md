@@ -16,6 +16,15 @@
   <br>
   ⇋ Atualmente trabalhando com desenvolvimento de software na Cooperativa Vinícola Garibaldi Ltda.
 </div> <br>
+<i>
+  ⇋ Post-Graduating in Big Data, Data Science & Data Analytics.
+  <br>
+  ⇋ Graduated in Computer Games and programming skills.
+  <br>
+  ⇋ Working with indie game development since 2019.
+  <br>
+  ⇋ Currently working with Software Development at Cooperativa Vinícola Garibaldi Ltda.
+</i> <br>
 
 ## Tecnologias
 
