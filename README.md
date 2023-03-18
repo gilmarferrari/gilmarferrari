@@ -8,7 +8,7 @@
 ## Sobre
 
 <div>
-  ⇋ Pós-Graduando em Big Data, Data Science & Data Analytics.
+  ⇋ Pós-Graduado em Big Data, Data Science & Data Analytics.
   <br>
   ⇋ Graduado em Jogos Digitais.
   <br>
