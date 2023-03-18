@@ -8,13 +8,13 @@
 ## Sobre
 
 <div>
-  ⇋ Pós-Graduado em Big Data, Data Science & Data Analytics.
+  »» Pós-Graduado em Big Data, Data Science & Data Analytics.
   <br>
-  ⇋ Graduado em Jogos Digitais.
+  »» Graduado em Jogos Digitais.
   <br>
-  ⇋ Atuando desde 2019, com o desenvolvimento de jogos (Independentes).
+  »» Atuando desde 2019, com o desenvolvimento de jogos (Independentes).
   <br>
-  ⇋ Atualmente trabalhando com desenvolvimento de software na Cooperativa Vinícola Garibaldi Ltda.
+  »» Atualmente trabalhando com desenvolvimento de software na Cooperativa Vinícola Garibaldi Ltda.
 </div> <br>
 
 ## Tecnologias
@@ -31,7 +31,7 @@
 
 <div>
   <label>Portfólio criado em HTML, CSS e JavaScript, contendo projetos, trajetória e demais informações.</label><br><br>
-  • <a href="https://gilmarferrari.github.io/portfolio/">Visitar Portfólio</a>
+  »» <a href="https://gilmarferrari.github.io/portfolio/">Visitar Portfólio</a>
   <br><br>
 </div>
  
