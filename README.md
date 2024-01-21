@@ -8,10 +8,11 @@
   ## Principais Projetos
 
   <a href="https://github.com/gilmarferrari/Plan-It/">
-    <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=gilmarferrari&repo=Plan-It&amp;theme=vision-friendly-dark" style="max-width:100%;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gilmarferrari&repo=Plan-It&amp;theme=vision-friendly-dark" style="max-width:100%;">
   </a>
+  <br>
   <a href="https://github.com/gilmarferrari/ConduitAPI/">
-    <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=gilmarferrari&repo=ConduitAPI&amp;theme=vision-friendly-dark" style="max-width:100%;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gilmarferrari&repo=ConduitAPI&amp;theme=vision-friendly-dark" style="max-width:100%;">
   </a>
 </div>
 
