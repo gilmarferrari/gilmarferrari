@@ -2,7 +2,7 @@
 <div>
   <a href="https://github.com/gilmarferrari">
     <img height="165px" src="https://github-readme-stats.vercel.app/api?username=gilmarferrari&show_icons=true&rank_icon=github&hide=stars&include_all_commits=true&count_private=true&amp;theme=vision-friendly-dark" style="max-width:100%;">
-    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilmarferrari&layout=compact&amp;theme=vision-friendly-dark" style="max-width:100%;">
+    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilmarferrari&exclude_repo=portfolio&hide=Shaderlab,CMake,C++,HLSL&layout=compact&amp;theme=vision-friendly-dark" style="max-width:100%;">
   </a>
 
   ## Highlighted projects
